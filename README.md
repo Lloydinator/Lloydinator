@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Lloyd #thatisall
+My name is Lloyd. I'm a Laravel and JAMstack enthusiast.
