@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Lloyd. I'm a LaraNext and LaraNuxt developer. I'm also a writer. Check my blog out. 
+My name is Lloyd. I specialize in the LIR stack (Laravel, Inertia, React). I'm also a writer. Check my blog out. 
